@@ -1,0 +1,2 @@
+VMInjector是一个绕过VMware Wordstation/Player上虚拟机登录认证的工具.支持当前大部分主流操作系统。它的原理是直接操作内存的方式来绕过登录认证。
+http://www.freebuf.com/tools/13738.html
